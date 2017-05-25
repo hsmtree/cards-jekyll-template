@@ -8,7 +8,7 @@ main-class: 'internet'
 color: '#B31917'
 tags:
 - internet
-categories:
+categories:css, dev, html, internet, js, misc, mobile, os, web
 twitter_text: 'Put your twitter description here.'
 introduction: 'Put your description here.'
 ---
