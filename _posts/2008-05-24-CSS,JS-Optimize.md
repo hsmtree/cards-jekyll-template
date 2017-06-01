@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSS & JAVASCRIPT 최적화 도구, 성능 개선"
-date: 2008-05-24 01:20:23
+date: 2008-05-24 01:20:23 +9:00
 image: ''
 description: 'CSS & JAVASCRIPT 최적화 도구, 성능 개선'
 main-class: 'web'
