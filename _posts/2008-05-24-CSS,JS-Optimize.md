@@ -10,7 +10,7 @@ tags:
 - web
 - javascript
 - css
-categories:
+categories: css, javascript
 twitter_text: 'CSS & JAVASCRIPT 최적화 도구, 성능 개선'
 introduction: 'CSS & JAVASCRIPT 최적화 도구, 성능 개선.'
 ---
