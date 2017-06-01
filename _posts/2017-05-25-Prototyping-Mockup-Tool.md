@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Prototyping(Mockup) Tools"
-date: 2017-05-25 21:50:48
+date: '2017-05-25'
 image: '/assets/img/'
 description: 'Prototype Tool for Web and App'
 main-class: 'misc'
 color: '#7AAB13'
 tags:
-- prototype
 - web
+- prototype
 - app
-categories: css, dev, html, internet, js, misc, mobile, os, web
+categories: dev, html, internet, misc, mobile, os, web
 twitter_text: 'Prototyping(Mockup) Tools'
 introduction: 'Prototyping(Mockup) Tools'
 ---
