@@ -12,5 +12,6 @@
     post-mobile: #7D669E; # #.
     post-os: #2FD64A;
     post-web: #FF4C84; #73100F;  #9C1614;
+		post-etc: #999999;
 }
 ```
